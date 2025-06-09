@@ -24,10 +24,7 @@ This project performs sentiment analysis on the IMDB dataset of 50,000 movie rev
    ```
 
 ## Usage
-1. **Run the Script**: Execute the script (`imdb_sentiment_analysis_with_user_input_gpu_accuracy.py`) in a Python environment:
-   ```bash
-   python imdb_sentiment_analysis_with_user_input_gpu_accuracy.py
-   ```
+1. **Run the Script**: Execute the script using google collab.
 2. **Output**:
    - **Data Exploration**: Displays dataset info and 12 visualizations.
    - **Training**: Trains DistilBERT on GPU for 3 epochs, showing a progress table with Epoch, Training Loss, Validation Loss, and Accuracy.
